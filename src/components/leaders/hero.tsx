@@ -72,7 +72,7 @@ export default function Hero() {
               size="lg"
               variant="outline"
               onClick={() => scrollTo("#clients")}
-              className="border-white/20 text-white hover:bg-white/10 hover:border-[#00E0C6]/50 hover:text-[#00E0C6] transition-all duration-300 rounded-xl px-8 py-6 text-base group"
+              className="bg-transparent border-white/20 text-white hover:bg-white/10 hover:border-[#00E0C6]/50 hover:text-[#00E0C6] transition-all duration-300 rounded-xl px-8 py-6 text-base group"
             >
               <Play className="mr-2 w-4 h-4" />
               View Our Work
